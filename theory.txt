@@ -1,0 +1,24 @@
+
+=======Salary wise bonus======
+
+Basic salary 13000 => bonus 2000
+Basic salary 18000 => bonus 3000
+Basic salary 25000 => bonus 5000
+Basic salary 30000 => bonus 6000
+Basic salary 40000 => bonus 7000
+Basic salary 50000 => bonus 8000
+Basic salary 60000 => bonus 10000
+
+=======Total salary wise picnic fee======
+
+Total salary greater than 15000 => fee 500
+Total salary greater than 20000 => fee 600
+Total salary greater than 25000 => fee 700
+Total salary greater than 30000 => fee 800
+Total salary greater than 40000 => fee 1000
+Total salary greater than 50000 => fee 1200
+Total salary greater than 60000 => fee 1500
+Total salary less than or equal 15000 => fee 100
+
+Salary of Rahim 25000tk. Now get the fee from Rahim to join the picnic.
+
